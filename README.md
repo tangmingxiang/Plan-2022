@@ -22,3 +22,4 @@
 * cd workspace
 * yarn install
 * yran dev
+* 关于此项目结构的梳理：https://github.com/FE-star/Plan-2022/issues/11#issuecomment-1225217157
