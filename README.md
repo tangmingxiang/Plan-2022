@@ -23,3 +23,5 @@
 * yarn install
 * yran dev
 * 关于此项目结构的梳理：https://github.com/FE-star/Plan-2022/issues/11#issuecomment-1225217157
+
+#### activity-page-editor 需要用 Tag 0.1 的这个项目 https://github.com/FE-star/Plan-2022/releases/tag/activity-page-editor
