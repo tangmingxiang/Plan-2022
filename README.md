@@ -25,7 +25,7 @@
 * 关于此项目结构的梳理：https://github.com/FE-star/Plan-2022/issues/11#issuecomment-1225217157
 
 #### activity-page-editor 需要用 Tag 0.1 的这个项目 https://github.com/FE-star/Plan-2022/releases/tag/activity-page-editor
-* 注意此项目 package.json 中的这一项配置 // 相对路径引用本地的一个项目\n
+* 注意此项目 package.json 中的这一项配置 // 相对路径引用本地的一个项目<br>
  `"devDependencies": {
     ...
     "element-factory": "../element-factory/",
