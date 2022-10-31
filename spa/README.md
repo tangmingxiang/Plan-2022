@@ -42,3 +42,10 @@ yarn dev
 ```sh
 yarn build
 ```
+
+
+## 启动项目
+### 先在 \spa\materials\About 和 \spa\materials\Hello 路径下执行 npm run build，再回到项目根目录下
+### npm run server
+### npm run dev
+### 若没有 npm run server 则 无法访问 React Hello 页面，但是却可以访问 About 页面
