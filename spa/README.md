@@ -49,3 +49,6 @@ yarn build
 ### npm run server
 ### npm run dev
 ### 若没有 npm run server 则 无法访问 React Hello 页面，但是却可以访问 About 页面
+
+## 分析代码的时候从 main.js 和 index.html 开始
+
